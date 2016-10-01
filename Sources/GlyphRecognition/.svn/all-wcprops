@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/73/trunk/Sources/GlyphRecognition
+END
+GlyphDatabase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/50/trunk/Sources/GlyphRecognition/GlyphDatabase.cs
+END
+GlyphRecognition.sln
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/Sources/GlyphRecognition/GlyphRecognition.sln
+END
+GlyphRecognizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/Sources/GlyphRecognition/GlyphRecognizer.cs
+END
+GlyphTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/62/trunk/Sources/GlyphRecognition/GlyphTracker.cs
+END
+GlyphRecognition.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/trunk/Sources/GlyphRecognition/GlyphRecognition.csproj
+END
+SquareBinaryGlyphRecognizer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/26/trunk/Sources/GlyphRecognition/SquareBinaryGlyphRecognizer.cs
+END
+ExtractedGlyphData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/54/trunk/Sources/GlyphRecognition/ExtractedGlyphData.cs
+END
+AForge.Vision.GlyphRecognition.snk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8/trunk/Sources/GlyphRecognition/AForge.Vision.GlyphRecognition.snk
+END
+Glyph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/50/trunk/Sources/GlyphRecognition/Glyph.cs
+END

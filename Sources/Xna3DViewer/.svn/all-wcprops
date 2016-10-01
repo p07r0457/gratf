@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/71/trunk/Sources/Xna3DViewer
+END
+ModelViewerControl.resx
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/38/trunk/Sources/Xna3DViewer/ModelViewerControl.resx
+END
+ModelsCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/46/trunk/Sources/Xna3DViewer/ModelsCollection.cs
+END
+Tools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/trunk/Sources/Xna3DViewer/Tools.cs
+END
+ModelSelectorForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/Sources/Xna3DViewer/ModelSelectorForm.resx
+END
+GraphicsDeviceService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/trunk/Sources/Xna3DViewer/GraphicsDeviceService.cs
+END
+ServiceContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/38/trunk/Sources/Xna3DViewer/ServiceContainer.cs
+END
+AugmentedRealityForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/Sources/Xna3DViewer/AugmentedRealityForm.resx
+END
+VirtualModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/54/trunk/Sources/Xna3DViewer/VirtualModel.cs
+END
+SceneViewerControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/Sources/Xna3DViewer/SceneViewerControl.cs
+END
+GraphicsDeviceControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/38/trunk/Sources/Xna3DViewer/GraphicsDeviceControl.cs
+END
+ModelViewerControl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/Sources/Xna3DViewer/ModelViewerControl.cs
+END
+ModelSelectorForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/Sources/Xna3DViewer/ModelSelectorForm.Designer.cs
+END
+ModelSelectorForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/38/trunk/Sources/Xna3DViewer/ModelSelectorForm.cs
+END
+AugmentedRealityForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/54/trunk/Sources/Xna3DViewer/AugmentedRealityForm.Designer.cs
+END
+AugmentedRealityForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/54/trunk/Sources/Xna3DViewer/AugmentedRealityForm.cs
+END
+Xna3DViewer.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/71/trunk/Sources/Xna3DViewer/Xna3DViewer.csproj
+END
